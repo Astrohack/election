@@ -2,7 +2,7 @@
 
 This project is a web application built with PHP and MySQL for managing and displaying presidential election results. It provides a platform for voters to cast their votes and administrators to monitor and report election data. The project was carried out as a condition for passing a subject at a technical secondary school, therefore can be quite outdated. 
 
-![Election Trailer](./media/animation.mp4)
+https://github.com/user-attachments/assets/2c663308-fbd7-47ca-8dcf-711c8aa04b7e
 
 ## Features
 
